@@ -1,0 +1,24 @@
+body
+{
+    text-align:center;
+    background-color: rgb(224, 213, 213);
+}
+table,thead
+{
+    border:2px solid black;
+    width:80%;
+    margin:auto;
+    margin-top:5vh;
+    background-color: chocolate;
+}
+th,td
+{
+    border:2px solid black;
+    width:20%;
+    height:35px;
+    background-color:rgb(200, 200, 250);
+}
+input,button
+{
+    height:1.5rem;
+}
